@@ -28,4 +28,4 @@ This dataset contains 2,738 rows and 12 columns, and was scraped from [Layoffs.f
 
 ## EDA - Visualizations
 
-### US Layoffs: 251,977
+### US Total Layoffs: 251,977
