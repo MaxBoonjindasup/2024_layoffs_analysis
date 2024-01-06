@@ -38,3 +38,16 @@ This dataset contains 2,738 rows and 12 columns, and was scraped from [Layoffs.f
 
 ### Amazon: 18,000, Google: 12,000, Meta: 11,000
 ![](https://github.com/MaxBoonjindasup/2024_layoffs_analysis/blob/main/top_companies_us.png)
+
+## Predicting When Layoffs Would Occur : Random Forest Model
+
+### Features: Company, Location_HQ, Industry, Layoffs, Funds_Raised, Stage, and Country
+### Target: Month
+### Optimization: Cross Validation, GridSearchCV
+
+| Metric                    | Value |
+|---------------------------|-------|
+| R-squared                 | 1.000 |
+| Mean Absolute Error       | 0.000 |
+| Mean Squared Error        | 0.000 |
+| Root Mean Squared Error   | 0.000 |
