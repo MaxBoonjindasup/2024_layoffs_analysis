@@ -29,3 +29,4 @@ This dataset contains 2,738 rows and 12 columns, and was scraped from [Layoffs.f
 ## EDA - Visualizations
 
 ### US Total Layoffs: 251,977
+![](https://github.com/MaxBoonjindasup/2024_layoffs_analysis/blob/main/layoffs_by_country.png)
