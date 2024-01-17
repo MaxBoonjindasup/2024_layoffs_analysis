@@ -40,8 +40,10 @@ This dataset contains 2,738 rows and 12 columns, and was scraped from [Layoffs.f
 
 ![](https://github.com/MaxBoonjindasup/2024_layoffs_analysis/blob/main/layoffs_by_country.png)
 
-| US Total Layoffs     | 251,977           |
-| US Total Funds Raise | $806 billion USD  |
+| Metric                    | Amount            |
+|---------------------------|-------------------|
+| Total US Layoffs          | 251,977           |
+| Total Funds Raised (USD)  | $806 billion      |
 
 ![](https://github.com/MaxBoonjindasup/2024_layoffs_analysis/blob/main/top_locations_us.png)
 
