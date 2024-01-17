@@ -30,13 +30,13 @@ This dataset contains 2,738 rows and 12 columns, and was scraped from [Layoffs.f
 
 ![](https://github.com/MaxBoonjindasup/2024_layoffs_analysis/blob/main/layoffs_over_time_us.png)
 
-| Date     | # of Layoffs |
-|----------|--------------|
-| 2020-04  | 17,708       |
-| 2020-05  | 13,790       |
-| 2022-11  | 43,185       |
-| 2023-01  | 57,745       |
-| 2023-02  | 14,717       |
+| Month-Year       | Total Layoffs in the Month |
+|------------------|----------------------------|
+| April 2020       | 17,708                     |
+| May 2020         | 13,790                     |
+| November 2022    | 43,185                     |
+| January 2023     | 57,745                     |
+| February 2023    | 14,717                     |
 
 ![](https://github.com/MaxBoonjindasup/2024_layoffs_analysis/blob/main/layoffs_by_country.png)
 
