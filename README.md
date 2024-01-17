@@ -75,9 +75,9 @@ This dataset contains 2,738 rows and 12 columns, and was scraped from [Layoffs.f
 
 ## Predicting When Layoffs Would Occur : Random Forest Model
 
-#### Features: Company, Location_HQ, Industry, Layoffs, Funds_Raised, Stage, and Country
-#### Target: Month
-#### Optimization: Cross Validation, GridSearchCV
+Features: Company, Location HQ, Industry, Layoffs, Funds Raised, Stage, and Country
+Target: Month
+Optimization: Cross Validation, GridSearchCV
 
 | Metric                    | Value |
 |---------------------------|-------|
