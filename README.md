@@ -1,6 +1,6 @@
 # 2024 Layoff Analysis
 
-## Introduction:
+## Introduction
 Fueled by economic uncertainty, businesses worldwide are facing difficult times, leading to significant layoffs. The tech sector alone has lost over 257,000 jobs, dwarfing pandemic-era losses. This summary examines the affected industries, geographic trends, and strategic considerations, offering a glimpse into the changing employment landscape.
 
 ## Overview
