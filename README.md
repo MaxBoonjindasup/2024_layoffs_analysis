@@ -45,6 +45,16 @@ This dataset contains 2,738 rows and 12 columns, and was scraped from [Layoffs.f
 | Total US Layoffs          | 251,977           |
 | Total US Funds Raised     | $806 billion      |
 
+![](https://github.com/MaxBoonjindasup/2024_layoffs_analysis/blob/main/top_industries_us.png)
+
+| Industry        | Total amount of Layoffs |
+|-----------------|--------------------------|
+| Consumer        | 38,487                   |
+| Retail          | 32,231                   |
+| Transportation  | 23,062                   |
+| Other           | 22,332                   |
+| Finance         | 15,582                   |
+
 ![](https://github.com/MaxBoonjindasup/2024_layoffs_analysis/blob/main/top_locations_us.png)
 
 | City              | # of Layoffs |
