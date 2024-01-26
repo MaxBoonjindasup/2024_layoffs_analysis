@@ -1,5 +1,5 @@
 # 2024 Layoff Analysis
-Full breakdown on [Kaggle](https://www.kaggle.com/code/maxboonjindasup/2024-layoffs-cleaned-data-analysis)
+View full breakdown on [Kaggle](https://www.kaggle.com/code/maxboonjindasup/2024-layoffs-cleaned-data-analysis).
 
 ## Introduction
 Fueled by economic uncertainty, businesses worldwide are facing difficult times, leading to significant layoffs. The tech sector alone has lost over 257,000 jobs, dwarfing pandemic-era losses. This summary examines the affected industries, geographic trends, and strategic considerations, offering a glimpse into the changing employment landscape.
